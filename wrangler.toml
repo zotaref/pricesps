@@ -1,0 +1,5 @@
+name = "ps-store-ua-price-bot"
+main = "src/worker.mjs"
+compatibility_date = "2026-09-01"
+workers_dev = true
+preview_urls = false

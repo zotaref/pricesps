@@ -1,0 +1,11 @@
+{
+  "name": "ps-store-ua-price-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
